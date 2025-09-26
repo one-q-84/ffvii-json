@@ -1,0 +1,157 @@
+{
+  "characters": [
+    {
+      "name": "Cloud Strife",
+      "chapter_introduction": 1,
+      "primary_ability": "Operator Mode/Punisher Mode - Switch between balanced combat and slower but powerful attacks",
+      "weaknesses": [
+        "Magic defense is moderate",
+        "Limited ranged options in Punisher Mode",
+        "Slower movement in Punisher Mode"
+      ],
+      "playable": "yes",
+      "character_type": "Main Party",
+      "weapon_type": "Sword",
+      "role": "Balanced DPS",
+      "mood": "brooding",
+      "quote": "Get help.",
+      "img_sprite": "cloud-ffvii.png"
+    },
+    {
+      "name": "Tifa Lockhart",
+      "chapter_introduction": 1,
+      "primary_ability": "Unbridled Strength - Chi-based combo system building up to powerful finishers",
+      "weaknesses": [
+        "Short range combat only",
+        "Lower HP compared to tanks",
+        "Requires combo setup for maximum damage"
+      ],
+      "playable": "yes",
+      "character_type": "Main Party",
+      "weapon_type": "Gloves",
+      "role": "Melee DPS/Combo Fighter",
+      "mood": "optimistic",
+      "quote": "Words aren't the only way to tell someone how you feel.",
+      "img_sprite": "tifa-ffvii.png"
+    },
+    {
+      "name": "Barret Wallace",
+      "chapter_introduction": 1,
+      "primary_ability": "Overcharge - Ranged combat specialist with heavy firepower and support abilities",
+      "weaknesses": [
+        "Slow movement speed",
+        "Long reload times",
+        "Vulnerable in close combat"
+      ],
+      "playable": "yes",
+      "character_type": "Main Party",
+      "weapon_type": "Gun-arm",
+      "role": "Ranged DPS/Tank",
+      "mood": "protective",
+      "quote": "I've been here since the beginning, and I still don't know what the hell's goin' on",
+      "img_sprite": "barret-ffvii.png"
+    },
+    {
+      "name": "Aerith Gainsborough",
+      "chapter_introduction": 1,
+      "primary_ability": "Tempest - Magic specialist with powerful spells and healing abilities",
+      "weaknesses": [
+        "Low physical defense",
+        "Low HP",
+        "Vulnerable to physical attacks"
+      ],
+      "playable": "yes",
+      "character_type": "Main Party",
+      "weapon_type": "Staff",
+      "role": "Black/White Mage",
+      "mood": "serene",
+      "quote": "The sky... I love it. It's always there for me.",
+      "img_sprite": "aerith-ffvii.png"
+    },
+    {
+      "name": "Red XIII (Nanaki)",
+      "chapter_introduction": 3,
+      "primary_ability": "Vengeance Mode - Beast-form combat with increasing power based on damage taken",
+      "weaknesses": [
+        "Requires damage to build Vengeance",
+        "Moderate magic defense",
+        "Unique quadrupedal combat takes adjustment"
+      ],
+      "playable": "yes",
+      "character_type": "Main Party",
+      "weapon_type": "Collar/Natural weapons",
+      "role": "Berserker/Beast Fighter",
+      "mood": "wise",
+      "quote": "To become adults, we must look inside ourselves and decide what we wish to be.",
+      "img_sprite": "red-ffvii.png"
+    },
+    {
+      "name": "Yuffie Kisaragi",
+      "chapter_introduction": 8,
+      "primary_ability": "Elemental Ninjutsu - Ninja combat with thrown weapon mastery and elemental techniques",
+      "weaknesses": [
+        "Lower HP than most characters",
+        "Shuriken can be lost if thrown carelessly",
+        "Medium range fighter - not optimal at close or long range"
+      ],
+      "playable": "yes",
+      "character_type": "Main Party",
+      "weapon_type": "Shuriken",
+      "role": "Ninja/Elemental DPS",
+      "mood": "mischievous",
+      "quote": "Let’s dance, Asshole!",
+      "img_sprite": "yuffie-ffvii.png"
+    },
+    {
+      "name": "Cait Sith",
+      "chapter_introduction": 8,
+      "primary_ability": "Moogle Dance - Luck-based abilities and crowd control with buffing capabilities",
+      "weaknesses": [
+        "RNG-dependent abilities can be unreliable",
+        "Lower direct damage output",
+        "Requires strategic positioning"
+      ],
+      "playable": "yes",
+      "character_type": "Main Party",
+      "weapon_type": "Megaphone",
+      "role": "Support/Buffer/Luck-based Fighter",
+      "mood": "cheerful",
+      "quote": "Leave it to me! I'll cheer you up!",
+      "img_sprite": "cait-ffvii.png"
+    },
+    {
+      "name": "Rashard Zangan",
+      "chapter_introduction": "Mentions/Flashbacks",
+      "primary_ability": "Martial Arts Mastery - Advanced fighting techniques and training",
+      "weaknesses": [
+        "Aging master",
+        "Limited appearances",
+        "Not involved in current conflicts"
+      ],
+      "playable": "no",
+      "character_type": "NPC/Master",
+      "weapon_type": "Martial Arts",
+      "role": "Tifa's Martial Arts Teacher",
+      "mood": "disciplined",
+      "quote": "True strength comes from within, not from your fists.",
+      "img_sprite": "rashard-ffvii.png"
+    },
+    {
+      "name": "Choco Bill",
+      "chapter_introduction": 2,
+      "primary_ability": "Chocobo Ranch Management - Chocobo care and breeding",
+      "weaknesses": [
+        "Non-combatant",
+        "No fighting abilities",
+        "Focused solely on chocobo care"
+      ],
+      "playable": "no",
+      "character_type": "NPC/Rancher",
+      "weapon_type": "None",
+      "role": "Chocobo Ranch Owner",
+      "mood": "caring",
+      "quote": "This is a good chocobo",
+      "img_sprite": "choco-bill-ffvii.png"
+    }
+  ]
+}
