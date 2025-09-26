@@ -13,7 +13,7 @@
       "character_type": "Main Party",
       "weapon_type": "Sword",
       "role": "Balanced DPS",
-      "mood": "brooding",
+      "mood": "mako",
       "quote": "Get help.",
       "img_sprite": "cloud-ffvii.png"
     },
@@ -154,4 +154,5 @@
       "img_sprite": "choco-bill-ffvii.png"
     }
   ]
+
 }
